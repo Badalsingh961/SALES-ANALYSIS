@@ -1,5 +1,3 @@
-This is a solid start, Ankit! Your README is clear and purposeful, but I’d love to help you elevate it to match your minimalist, professional style and showcase your strengths as a certified data analyst. Here's a refined version that adds clarity, structure, and emotional resonance while keeping things clean and direct:
-
 📊 Sales Analysis Dashboard
 
 🧠 Overview
